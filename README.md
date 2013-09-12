@@ -14,3 +14,6 @@ This script requires you have wiringPI installed which will provide the 'gpio' c
 https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/
 
 
+berryclip.sh = This script emulates some of the functions of the python scripts that come with the board
+
+morseclip.sh = This script converts text to morsecode using the speaker on the berryclip
